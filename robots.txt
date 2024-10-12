@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enteloti.github.io/sitemap.html.gz
+Sitemap: https://enteloti.github.io/app/sitemap.html.gz
+Sitemap: https://enteloti.github.io/assets/sitemap.html.gz
+Sitemap: https://enteloti.github.io/css/sitemap.html.gz
+Sitemap: https://enteloti.github.io/includes/sitemap.html.gz
+Sitemap: https://enteloti.github.io/item/sitemap.html.gz
+Sitemap: https://enteloti.github.io/src/sitemap.html.gz
